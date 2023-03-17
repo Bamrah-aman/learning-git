@@ -1,4 +1,4 @@
-# Hello from stranger
+# Hola
 ## This repo was used to learn Git, Github :-)
 
 
